@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{03EF1865-A023-4C96-B7F8-BE883893A4D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crawler/Logic/Crawler.cs">
+    <Files>
+      <File FileName="Crawler/Logic/ScraperLogic.cs" Line="20" Column="80" />
+      <File FileName="Crawler/Service/ClientService.cs" Line="23" Column="58" />
+      <File FileName="Crawler/Program.cs" Line="22" Column="1" />
+      <File FileName="Crawler/Logic/Crawler.cs" Line="32" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crawler" expanded="True">
+            <Node name="Crawler" expanded="True">
+              <Node name="Logic" expanded="True">
+                <Node name="Crawler.cs" selected="True" />
+              </Node>
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Crawler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/simon/Projects/Crawler/Crawler/Logic/Crawler.cs" relfile="Crawler/Logic/Crawler.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/simon/Projects/Crawler/Crawler/bin/Debug/netcoreapp3.1/Crawler
+/Users/simon/Projects/Crawler/Crawler/bin/Debug/netcoreapp3.1/Crawler.deps.json
+/Users/simon/Projects/Crawler/Crawler/bin/Debug/netcoreapp3.1/Crawler.runtimeconfig.json
+/Users/simon/Projects/Crawler/Crawler/bin/Debug/netcoreapp3.1/Crawler.runtimeconfig.dev.json
+/Users/simon/Projects/Crawler/Crawler/bin/Debug/netcoreapp3.1/Crawler.dll
+/Users/simon/Projects/Crawler/Crawler/bin/Debug/netcoreapp3.1/Crawler.pdb
+/Users/simon/Projects/Crawler/Crawler/obj/Debug/netcoreapp3.1/Crawler.AssemblyInfoInputs.cache
+/Users/simon/Projects/Crawler/Crawler/obj/Debug/netcoreapp3.1/Crawler.AssemblyInfo.cs
+/Users/simon/Projects/Crawler/Crawler/obj/Debug/netcoreapp3.1/Crawler.dll
+/Users/simon/Projects/Crawler/Crawler/obj/Debug/netcoreapp3.1/Crawler.pdb
+/Users/simon/Projects/Crawler/Crawler/obj/Debug/netcoreapp3.1/Crawler.csprojAssemblyReference.cache

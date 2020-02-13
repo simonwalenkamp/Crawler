@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Logic\" />
+    <Folder Include="Service\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Logic\ScraperLogic.cd" />
+  </ItemGroup>
+</Project>
